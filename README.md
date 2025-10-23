@@ -36,9 +36,9 @@ Nếu không sử dụng HACS, bạn có thể cài đặt thủ công như sau:
 - Thay ip thành địa chỉ ip của máy chạy server gemini web api
 - Mặc định sẽ dùng gemini 2.5 flast, bạn nào có gói pro thì dùng, nhưng khuyên nên dùng 2.5 flash để đảm bảo tốc độ tối ưu nhất
 
-<img title="Gemini Web API" src="https://raw.githubusercontent.com/smarthomeblack/gemini_web_api/refs/heads/main/img/1.png" width="100%"></img>
+<img title="Gemini Web API" src="https://raw.githubusercontent.com/smarthomeblack/gemini-web-api/refs/heads/main/img/1.png" width="100%"></img>
 
-<img title="Gemini Web API" src="https://raw.githubusercontent.com/smarthomeblack/gemini_web_api/refs/heads/main/img/2.png" width="100%"></img>
+<img title="Gemini Web API" src="https://raw.githubusercontent.com/smarthomeblack/gemini-web-api/refs/heads/main/img/2.png" width="100%"></img>
 
 
 ### 4. Hướng Dẫn Sử Dụng
