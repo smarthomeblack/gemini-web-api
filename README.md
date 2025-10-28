@@ -16,7 +16,8 @@ Dự án này cung cấp một API sử dụng từ Gemini Web tích hợp cho H
 
 ### 1. Cài đặt qua HACS(Khuyến nghị)
 
-[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=smarthomeblack&repository=gemini-web-api)
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=smarthomeblack&repository=gemini-web-api&category=integration
+)
 
 - Tải về sau đó khởi động lại Home Assistant
 
