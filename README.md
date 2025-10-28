@@ -64,7 +64,7 @@ Example for getting sensor/device values:
 
 ### 5. Tính năng
 
-- Sử dụng giống như 1 API key gemini bình thường, hiện tại mới chỉ hỗ trợ chat + tool. chưa hỗ trợ file vì thư viện mới bị lỗi, sẽ fix trong tương lai sau
+- Sử dụng giống như 1 API key gemini, openai, hỗ trợ đầy đủ toàn bộ tính năng như 1 API chuẩn
 
 ## Đóng góp
 Mọi đóng góp, báo lỗi hoặc ý tưởng mới đều được hoan nghênh qua GitHub Issues hoặc Pull Request.

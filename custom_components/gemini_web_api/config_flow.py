@@ -425,7 +425,7 @@ class OpenAISubentryFlowHandler(ConfigSubentryFlow):
                 vol.Optional(CONF_IMAGE_MODEL, default=RECOMMENDED_IMAGE_MODEL)
             ] = SelectSelector(
                 SelectSelectorConfig(
-                    options=["gpt-image-1", "gpt-image-1-mini"],
+                    options=["gemini-2.5-flash", "gemini-2.5-pro"],
                     mode=SelectSelectorMode.DROPDOWN,
                 )
             )
